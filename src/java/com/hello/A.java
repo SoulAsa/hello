@@ -10,4 +10,8 @@ public class A{
 	public String getSex() {
 		return sex;
 	}
+	
+	public void setSex(String sex) {
+		this.sex = sex;
+	}
 }
